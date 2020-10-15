@@ -8,7 +8,7 @@ Complete parts:
 - Team management.
 - Game graphics.
 - Grand tichu phase.
-- Card exchange phase.
+- Card exchange phase.<br />
 To do parts:
 - Implement main gameplay.
 
