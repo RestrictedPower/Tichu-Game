@@ -9,6 +9,8 @@ Complete parts:
 - Game graphics.
 - Grand tichu phase.
 - Card exchange phase.<br />
+
+
 To do parts:
 - Implement main gameplay.
 
