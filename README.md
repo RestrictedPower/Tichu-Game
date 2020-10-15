@@ -4,7 +4,7 @@ This project is incomplete, and I am currently working on it.
 It works up to the card exchange phase.
 
 Complete parts:
-- Socket communications (connect to server, wait for players).
+- Socket communications (server - client connection and communication).
 - Team management.
 - Game graphics.
 - Grand tichu phase.
