@@ -6,6 +6,7 @@ It works up to the card exchange phase.
 Complete parts:
 - Socket communications (server - client connection and communication).
 - Team management.
+- Card dealing.
 - Game graphics.
 - Grand tichu phase.
 - Card exchange phase.<br />
