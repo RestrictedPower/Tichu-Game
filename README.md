@@ -1,4 +1,4 @@
-# Tichu server-client (socket) game. (Incomplete)
+# Tichu server-client multiplayer game. (Incomplete)
 This project is incomplete, and I am currently working on it.
 
 It works up to the card exchange phase.
